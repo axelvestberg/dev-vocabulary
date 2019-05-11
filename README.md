@@ -32,4 +32,6 @@ A structured list describing various development frameworks, technologies, etc.
 * AWS
 * Google Cloud
 
-# End of web chapter
+## TODO
+* Update every technology with descriptions and how they're connected to the other technology. (frontend - server - database connections)
+* Make a short chapter about other interesting tech, linux, docker, remote dev env, and others when I remember.
