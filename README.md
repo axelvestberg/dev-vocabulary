@@ -3,7 +3,7 @@
 ## Description
 A structured list describing various development frameworks, technologies, etc.
 
-# Web Development Frameworks, Languages & Technologies
+## Web Development Frameworks, Languages & Technologies
 ## Frontend
 * Reactjs
 * Angular
